@@ -4,7 +4,8 @@
 	float porcentaje_hombres(float ch,float ct);
 	float porcentaje_mujeres(float cm, float ct);
 
-	int main() {
+	int main() 
+	{
 	float ct=0,ch,cm,pm,ph;
 	printf("Ingrese la cantidad de curriculums de hombres ");
 	scanf("%f",&ch);
